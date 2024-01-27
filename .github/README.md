@@ -1,5 +1,6 @@
 <h1 align="center">NvChad</h1>
-
+<h3 align="center">NvChad for Web Devs, linting, lsp, react, works out of the box</h3>
+<pre>git clone https://github.com/jatinhemnani01/nvchad-web-dev.git ~/.config/nvim --depth 1 && nvim </pre>
 <div align="center">
 	<a href="https://nvchad.com/">Home</a>
   <span> • </span>
